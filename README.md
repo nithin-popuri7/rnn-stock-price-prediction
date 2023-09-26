@@ -11,7 +11,7 @@ We aim to build a RNN model to predict the stock prices of Google using the data
 
 ![output](https://github.com/nithin-popuri7/rnn-stock-price-prediction/blob/main/1.jpg?raw=true)
 
-60 Inputs with 60 Neurons in the RNN Layer (hidden) and one neuron for the Output Layer.
+   60 Inputs with 60 Neurons in the RNN Layer (hidden) and one neuron for the Output Layer.
 
 ![output](https://github.com/nithin-popuri7/rnn-stock-price-prediction/blob/main/2.jpg?raw=true)
 
